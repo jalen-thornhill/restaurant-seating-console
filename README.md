@@ -1,3 +1,5 @@
+> **Archived project:** This original function-based version is preserved to show the project's development. The maintained version is [Restaurant Seating OOP](https://github.com/jalen-thornhill/restaurant-seating-oop).
+
 # Restaurant Seating Console
 
 A C++ console program for managing restaurant table reservations.
